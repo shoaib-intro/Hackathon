@@ -18,7 +18,7 @@ def abc():
  yes or no
 ```
 # How does this works?
-let's have a look inside working on youtube [Software Solution Bosch](https://pages.github.com/).
+let's have a look inside working on **youtube** [Software Solution Bosch](https://pages.github.com/).
 # what unique?
 - [x] Short and precise code #730
 - [ ] Clean code
