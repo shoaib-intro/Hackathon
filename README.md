@@ -5,6 +5,7 @@
 ```diff
 - I love to do programming and had passion for this
 ! I choosed this for learning
++ another color
 ```
 
 # Problem Statement
@@ -13,6 +14,8 @@ What is this problem
 - Preprocessing
 - Methdology
 - end results
+1. neat
+2. clean
 main code block
 ```
 def abc():
