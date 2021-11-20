@@ -24,7 +24,7 @@ def abc():
 # How does this works?
 let's have a look inside working on **youtube** [Software Solution Bosch](https://pages.github.com/).
 # what unique?
-- [x] Short and precise code #730
+- [x] Clean and Understandable code with less comments
 - [ ] Clean code
 - [x] Performance time boosting
 - [ ] Availability of code 
