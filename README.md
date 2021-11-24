@@ -27,8 +27,8 @@ Direct echo mean when signal reflects back at 90 angle. The distance for direct 
 ```
 Distance L = 1/2 × T × C
 ```
-where L is the distance, T is the time between the emission and reception, and C is the sonic speed. (The value is multiplied by 1/2 because T is the time for go-and-return distance.)
-![How-Ultrasonic-Sensors-Work](https://user-images.githubusercontent.com/56737996/143319640-90388853-f3eb-4fcd-b3b8-1430f5b498a4.gif)
+where L is the distance, T is the time between the emission and reception, and C is the sonic speed. (The value is multiplied by 1/2 because T is the time for go-and-return distance.) <br>
+<img src="https://user-images.githubusercontent.com/56737996/143319640-90388853-f3eb-4fcd-b3b8-1430f5b498a4.gif" width="500" height="300">
 
 
 ## Cross Echo
