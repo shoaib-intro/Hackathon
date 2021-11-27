@@ -41,7 +41,7 @@ Here steps to calculate real distance by cross echo:
 
 
 
-## Visual Explanatioon Demo
+## Visual Explanatioon Demo (Simulation)
 
 let's have a look inside working on **youtube** [Software Solution Bosch](https://pages.github.com/).
 # what unique?
