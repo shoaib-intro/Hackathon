@@ -2,6 +2,8 @@
 > BOSCH Hackaton Nov 2021
 ```diff
 ! All work dedicated to Bosch Hakathon 2021
+- [x] CPP code for Sensors simulation with Aurdino
+- [x] Python file for object location finding using Cross and Direcht echo
 ```
 # Problem Statement
 Nearest object detection with Ultrasonic Sensor in Car rare Bumper
